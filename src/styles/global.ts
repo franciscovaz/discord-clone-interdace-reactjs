@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
   * {
@@ -16,6 +16,10 @@ export default createGlobalStyle`
     outline: 0;
 
     font-family: 'Roboto', sans-serif;
+  }
+
+  button {
+    cursor: pointer;
   }
 
   :root {
