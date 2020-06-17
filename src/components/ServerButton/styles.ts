@@ -8,6 +8,8 @@ export const Button = styled.button<SBProps>`
   justify-content: center;
   flex-shrink: 0;
 
+  cursor: pointer;
+
   width: 48px;
   height: 48px;
 
