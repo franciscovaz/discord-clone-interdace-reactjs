@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -23,6 +24,12 @@ This is the frontend to an ReactJS app that clones the interface of Discord.
 - Styled-Components
 
 <br />
+
+## 📸 Preview
+
+<h1 align="center">
+  <img width="600" alt="Discord Clone" src="https://user-images.githubusercontent.com/27808014/85022360-19c24300-b16b-11ea-9fe5-7baeb703144b.png">
+</h1>
 
 ## 💻 Getting started
 
