@@ -28,7 +28,7 @@ This is the frontend to an ReactJS app that clones the interface of Discord.
 ## 📸 Preview
 
 <h1 align="center">
-  <img width="600" alt="Discord Clone" src="https://user-images.githubusercontent.com/27808014/85022360-19c24300-b16b-11ea-9fe5-7baeb703144b.png">
+  <img width="800" alt="Discord Clone" src="https://user-images.githubusercontent.com/27808014/85022360-19c24300-b16b-11ea-9fe5-7baeb703144b.png">
 </h1>
 
 ## 💻 Getting started
